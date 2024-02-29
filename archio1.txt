@@ -1,0 +1,1 @@
+Hola este es un mensaje dentro de archivo1.txt
